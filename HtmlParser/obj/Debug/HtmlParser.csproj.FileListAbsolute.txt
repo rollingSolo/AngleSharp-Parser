@@ -1,0 +1,12 @@
+c:\users\c# killah\source\repos\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe.config
+c:\users\c# killah\source\repos\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe
+c:\users\c# killah\source\repos\HtmlParser\HtmlParser\bin\Debug\HtmlParser.pdb
+c:\users\c# killah\source\repos\HtmlParser\HtmlParser\bin\Debug\AngleSharp.dll
+c:\users\c# killah\source\repos\HtmlParser\HtmlParser\bin\Debug\AngleSharp.xml
+c:\users\c# killah\source\repos\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csprojResolveAssemblyReference.cache
+c:\users\c# killah\source\repos\HtmlParser\HtmlParser\obj\Debug\HtmlParser.Form1.resources
+c:\users\c# killah\source\repos\HtmlParser\HtmlParser\obj\Debug\HtmlParser.Properties.Resources.resources
+c:\users\c# killah\source\repos\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csproj.GenerateResource.Cache
+c:\users\c# killah\source\repos\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csproj.CoreCompileInputs.cache
+c:\users\c# killah\source\repos\HtmlParser\HtmlParser\obj\Debug\HtmlParser.exe
+c:\users\c# killah\source\repos\HtmlParser\HtmlParser\obj\Debug\HtmlParser.pdb
